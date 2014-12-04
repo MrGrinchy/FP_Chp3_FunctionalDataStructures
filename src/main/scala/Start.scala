@@ -64,7 +64,7 @@ println("Set HEAD")
       i<4
     }
     println("DropWhile")
-    println("TEST"+List.dropWhile(List(1,2,3,4,5,6,7,8),eval))
+    println(List.dropWhile(List(1,2,3,4,5,6,7,8),eval))
 
   }
 
